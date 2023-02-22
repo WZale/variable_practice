@@ -14,3 +14,5 @@ time_spent_coding = "worthwhile"
 learning_new_things = "enjoyable"
 
 days_learning_ruby = 1
+cats = 1
+pens_on_desk = 12
